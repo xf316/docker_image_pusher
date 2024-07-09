@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 nginx
 tomcat:8.5.68
+kubernetes/metrics-scraper:v1.0.8
