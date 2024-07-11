@@ -9,4 +9,4 @@ nginx:1.19.3
 nginx:1.20.0
 tomcat:8.5.68
 kubernetesui/metrics-scraper:v1.0.8
-ingress-nginx-controller:v0.46.0
+ingress-nginx:v1.7.1
