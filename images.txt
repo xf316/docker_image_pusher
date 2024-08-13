@@ -6,3 +6,4 @@ nginx:1.18.0
 rabbitmq:3.8.5-management
 jenkins/jenkins:jdk17
 powerjob/powerjob-server:4.3.2
+jenkins/jenkins:jdk18
