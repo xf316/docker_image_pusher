@@ -1,2 +1,6 @@
 redis:6.2.14
 redis:7.4.0
+rabbitmq:3.13.6
+rabbitmq:3.8.0
+nginx:1.18.0
+nginx:2.11.3
