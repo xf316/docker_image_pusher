@@ -7,3 +7,4 @@ rabbitmq:3.8.5-management
 jenkins/jenkins:jdk17
 powerjob/powerjob-server:4.3.2
 jenkins/jenkins:jdk17
+nexus:3.71.0
