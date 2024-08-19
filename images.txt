@@ -7,4 +7,4 @@ rabbitmq:3.8.5-management
 jenkins/jenkins:jdk17
 powerjob/powerjob-server:4.3.2
 jenkins/jenkins:jdk17
-node:12.41.3
+nodejs/node:14.21.3
