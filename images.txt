@@ -8,5 +8,5 @@ jenkins/jenkins:jdk17
 powerjob/powerjob-server:4.3.2
 jenkins/jenkins:jdk17
 openjdk:8-jdk-alpine
-kube-apiserver:1.28.4
+
 coredns:1.9.3
