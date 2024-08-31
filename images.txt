@@ -8,4 +8,4 @@ jenkins/jenkins:jdk17
 powerjob/powerjob-server:4.3.2
 jenkins/jenkins:jdk17
 openjdk:8-jdk-alpine
-kubesphere/kube-apiserver:1.28.4
+kubesphere:1.28.4
