@@ -1,12 +1,2 @@
-redis:6.2.14
-redis:7.4.0
-rabbitmq:3.13.6
-rabbitmq:3.8.0
-nginx:1.18.0
-rabbitmq:3.8.5-management
-jenkins/jenkins:jdk17
-powerjob/powerjob-server:4.3.2
-jenkins/jenkins:jdk17
-openjdk:8-jdk-alpine
-k8s.gcr.io/kube-apiserver:v1.28.4
-coredns/coredns:1.9.3
+
+halcyonazure/lsky-pro-docker
