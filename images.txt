@@ -1,2 +1,2 @@
 
-halcyonazure/lsky-pro-docker
+hametan/datax-web:2.1.2
