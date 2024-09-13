@@ -1,2 +1,1 @@
-
-minio
+ minio:2.40.0
