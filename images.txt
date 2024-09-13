@@ -1,1 +1,1 @@
-minio/RELEASE.2024-07-16
+minio:2024-07-16
