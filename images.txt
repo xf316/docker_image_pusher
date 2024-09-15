@@ -1,1 +1,1 @@
-Mirantis/cri-dockerd
+cri-dockerd/0.3.10
