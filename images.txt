@@ -1,2 +1,2 @@
 
-k8snetworkplumbingwg/multus-cni
+cri-dockerd/0.3.10
