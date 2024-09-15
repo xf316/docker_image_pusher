@@ -1,2 +1,2 @@
 
-cri-dockerd/0.3.10
+cri-dockerd:0.3.10
