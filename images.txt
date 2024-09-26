@@ -1,1 +1,1 @@
-openjdk:17
+Discuz:3.4
