@@ -1,1 +1,1 @@
-rabbitmq:3.13.7
+redis:3.2
