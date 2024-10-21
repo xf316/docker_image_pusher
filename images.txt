@@ -1,1 +1,1 @@
-openjdk/jdk17
+rabbitmq:3.13.7
