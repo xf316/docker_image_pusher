@@ -1,1 +1,1 @@
-keepalived
+keepalived:v2.3.1
