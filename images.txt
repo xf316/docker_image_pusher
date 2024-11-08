@@ -1,1 +1,1 @@
-jenkins/2.452.1-lts
+jenkins/v2.452.1-lts
