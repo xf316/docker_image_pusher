@@ -1,2 +1,2 @@
 
-jenkinsci/jenkins
+jenkinsci/docker
