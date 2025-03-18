@@ -1,2 +1,2 @@
-apache/hertzbeat:v1.6.1
-victoriametrics/victoria-metrics:v1.95.1
+
+gcr.io/cadvisor/cadvisor:v0.47.2
