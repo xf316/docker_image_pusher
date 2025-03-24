@@ -1,2 +1,2 @@
 
-gcr.io/cadvisor/cadvisor:v0.47.2
+redis:7.4.2
