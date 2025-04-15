@@ -1,2 +1,3 @@
-
-redis:7.4.2
+elasticsearch:7.17.25
+kibana:7.17.25
+logstash:7.17.25
