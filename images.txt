@@ -1,3 +1,2 @@
-openjdk:jdk8
---platform=linux/arm64
+markoradinovic/oracle-jdk8-aarch64:latest
 
