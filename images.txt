@@ -1,1 +1,2 @@
-aarch64/alpine-minirootfs-3.9.6-aarch64.tar.gz
+openjdk:8-jdk-alpine --platform=linux/arm64
+
