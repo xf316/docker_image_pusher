@@ -1,2 +1,2 @@
-openjdk:8-jdk-alpine --platform=linux/arm64
+openjdk/8-jdk-alpine --platform=linux/arm64
 
