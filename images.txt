@@ -1,2 +1,3 @@
-creepy-pasta101/java-in-termux --platform=linux/arm64
+openjdk/jdk8
+--platform=linux/arm64
 
