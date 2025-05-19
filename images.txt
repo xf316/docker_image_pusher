@@ -1,2 +1,2 @@
-markoradinovic/oracle-jdk8-aarch64:latest
+kibana:8.15.3
 
