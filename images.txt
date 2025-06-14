@@ -1,2 +1,2 @@
-kibana:8.15.3
+filebeat:8.15.3
 
