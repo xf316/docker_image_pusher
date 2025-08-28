@@ -1,1 +1,1 @@
-arthasdev/arthas:latest
+redis:5.0
