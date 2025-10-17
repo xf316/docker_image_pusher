@@ -1,1 +1,1 @@
-sentry:25.10
+getsentry/sentry 25.10.0
