@@ -1,1 +1,1 @@
-getsentry:25.10.0
+sentry-release-bot:25.10.0
