@@ -1,1 +1,1 @@
-getsentry/sentry/release:25.10.0
+getsentry/release:25.10.0
