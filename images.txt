@@ -1,9 +1,1 @@
-# ghcr.io/getsentry/sentry:25.9.0
-# postgres:14
-#redis:7
-#zookeeper:7.0.1
-#kafka:7.5.0
-clickhouse:23.12
-#symbolicator:latest
-#relay:latest
-#nginx:latest
+docker.io/yandex/clickhouse-server:21.3.20.1
