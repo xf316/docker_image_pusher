@@ -1,6 +1,7 @@
-edoburu/pgbouncer:v1.24.1-p1
-nginx:1.29.1-alpine
-chrislusf/seaweedfs:3.96_large_disk
-altinity/clickhouse-server:25.3.6.10034.altinitystable
-postgres:14.19-bookworm
-memcached:1.6.26-alpine
+#edoburu/pgbouncer:v1.24.1-p1
+#nginx:1.29.1-alpine
+#chrislusf/seaweedfs:3.96_large_disk
+#altinity/clickhouse-server:25.3.6.10034.altinitystable
+#postgres:14.19-bookworm
+#memcached:1.6.26-alpine
+clickhouse-self-hosted-local
