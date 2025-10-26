@@ -1,1 +1,1 @@
-busybox:latest
+docker.io/altinity/clickhouse-server:25.3.6.10034.altinitystable
