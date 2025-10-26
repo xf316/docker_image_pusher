@@ -1,3 +1,2 @@
-chrislusf/seaweedfs:3.96_large_disk
-postgres:14.19-bookworm
-
+confluentinc/cp-kafka:7.6.6
+redis:6.2.20-alpine
