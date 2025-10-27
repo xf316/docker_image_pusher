@@ -18,5 +18,5 @@ postgres:14.19-bookworm
 edoburu/pgbouncer:v1.24.1-p1
 #clickhouse-self-hosted-local
 chrislusf/seaweedfs:3.96_large_disk
-sentry-cleanup-self-hosted-local
+#sentry-cleanup-self-hosted-local
 vroom-cleanup-self-hosted-local
