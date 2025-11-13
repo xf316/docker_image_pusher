@@ -20,5 +20,6 @@
 #chrislusf/seaweedfs:3.96_large_disk
 #sentry-cleanup-self-hosted-local
 #vroom-cleanup-self-hosted-local
-rustfs/rustfs:alpha
-alphacep/kaldi-cn:latest
+#rustfs/rustfs:alpha
+#alphacep/kaldi-cn:latest
+lissy93/web-check:latest
