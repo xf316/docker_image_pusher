@@ -22,4 +22,5 @@
 #vroom-cleanup-self-hosted-local
 #rustfs/rustfs:alpha
 #alphacep/kaldi-cn:latest
-lissy93/web-check:latest
+#lissy93/web-check:latest
+mathesar/mathesar:latest
