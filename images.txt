@@ -23,4 +23,7 @@
 #rustfs/rustfs:alpha
 #alphacep/kaldi-cn:latest
 #lissy93/web-check:latest
-mathesar/mathesar:latest
+#mathesar/mathesar:latest
+docker.io/dbeaver/cloudbeaver:latest
+
+
