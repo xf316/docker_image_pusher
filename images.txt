@@ -24,6 +24,6 @@
 #alphacep/kaldi-cn:latest
 #lissy93/web-check:latest
 #mathesar/mathesar:latest
-docker.io/dbeaver/cloudbeaver:latest
-
+#docker.io/dbeaver/cloudbeaver:latest
+ghcr.io/getsentry/snuba:nightly
 
