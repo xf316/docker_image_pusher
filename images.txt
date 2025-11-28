@@ -25,5 +25,6 @@
 #lissy93/web-check:latest
 #mathesar/mathesar:latest
 #docker.io/dbeaver/cloudbeaver:latest
-ghcr.io/getsentry/snuba:nightly
+#ghcr.io/getsentry/snuba:nightly
+bellsoft/liberica-openjre-debian:21
 
