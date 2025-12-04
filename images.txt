@@ -26,5 +26,6 @@
 #mathesar/mathesar:latest
 #docker.io/dbeaver/cloudbeaver:latest
 #ghcr.io/getsentry/snuba:nightly
-bellsoft/liberica-openjre-debian:21
+#bellsoft/liberica-openjre-debian:21
+nginx:1.27.4-alpine
 
