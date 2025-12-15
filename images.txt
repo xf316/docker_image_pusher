@@ -1,1 +1,1 @@
-percona/pmm-server:3.4 
+seataio/seata-server:1.7.1
