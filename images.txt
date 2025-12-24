@@ -1,1 +1,2 @@
-goharbor/harbor-jobservice:v2.10.1
+#goharbor/harbor-jobservice:v2.10.1
+goharbor/harbor-log:v2.10.1
