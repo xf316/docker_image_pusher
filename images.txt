@@ -1,1 +1,1 @@
-goharbor/prepare:v2.11.2
+axure-cloud
