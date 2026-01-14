@@ -1,1 +1,1 @@
-nginx:1.14.2
+goharbor/prepare:v2.14.2
