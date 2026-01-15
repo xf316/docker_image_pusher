@@ -1,1 +1,3 @@
-index.docker.io/rancher/hardened-etcd:v3.6.6-k3s1-build20251210
+index.docker.io/rancher/rke2-cloud-provider:v1.34.3-0.20251210094406-1ff6ebef7028-build20251210
+index.docker.io/rancher/hardened-kubernetes:v1.34.3-rke2r1-build20251210
+index.docker.io/rancher/rke2-runtime:v1.34.3-rke2r1
