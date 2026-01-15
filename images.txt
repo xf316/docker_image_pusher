@@ -1,1 +1,1 @@
-goharbor/prepare:v2.14.0
+index.docker.io/rancher/hardened-etcd:v3.6.6-k3s1-build20251210
