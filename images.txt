@@ -1,3 +1,2 @@
-
-valkey/valkey:8.1
+dcmtk/dcmtk:3.7.0
 
