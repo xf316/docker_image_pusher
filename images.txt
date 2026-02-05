@@ -1,1 +1,1 @@
-openeuler-mirror/PilotGo:latest
+PilotGo:latest
