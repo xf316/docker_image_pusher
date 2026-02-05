@@ -1,2 +1,2 @@
-openeuler-mirror/pilotgo:2.1.0
+pilotgo:2.1.0
 
