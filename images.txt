@@ -1,2 +1,2 @@
-pilotgo:2.1.0
+swr.cn-east-2.myhuaweicloud.com/openeuler-2022/pilotgo:2.1.0
 
