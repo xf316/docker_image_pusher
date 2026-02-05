@@ -1,1 +1,2 @@
-PilotGo:latest
+openeuler-mirror/pilotgo:2.1.0
+
