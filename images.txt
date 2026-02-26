@@ -1,2 +1,4 @@
-pilotgo_server:latest
+deployment.apps/cert-manager
+deployment.apps/cert-manager-cainjector
+deployment.apps/cert-manager-webhook
 
