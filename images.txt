@@ -1,4 +1,1 @@
-deployment.apps/cert-manager
-deployment.apps/cert-manager-cainjector
-deployment.apps/cert-manager-webhook
-
+rancher/rancher:latest
