@@ -1,1 +1,1 @@
-rancher/rancher:latest
+docker.io/vulhub/tomcat:8.5.19
