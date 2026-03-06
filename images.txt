@@ -1,1 +1,1 @@
-docker.io/vulhub/tomcat:8.5.19
+index.docker.io/rancher/rke2-runtime:v1.34.4-rke2r1
