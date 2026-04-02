@@ -1,1 +1,2 @@
-index.docker.io/rancher/rke2-runtime:v1.34.4-rke2r1
+apache/doris-be:2.1.0
+apache/doris-fe:2.1.0
