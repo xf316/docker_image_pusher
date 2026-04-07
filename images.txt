@@ -1,1 +1,1 @@
-apache/doris:2.1
+nginx:1.26.3-alpine
