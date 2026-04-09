@@ -1,1 +1,1 @@
-cmdb:latest
+malachaki/cmdb:latest
