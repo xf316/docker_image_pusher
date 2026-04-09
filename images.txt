@@ -1,1 +1,1 @@
-tangjinxin/cmdb:latest
+veops/cmdb:latest
