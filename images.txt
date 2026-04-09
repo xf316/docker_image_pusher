@@ -1,2 +1,1 @@
-
-hequan/devops-cmdb:latest
+tangjinxin/cmdb:latest
