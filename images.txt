@@ -1,1 +1,1 @@
-malachaki/cmdb:latest
+redis/redisinsight:latest
