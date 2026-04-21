@@ -1,1 +1,1 @@
-docker.io/redislabs/redisinsight:latest
+index.docker.io/rancher/hardened-kubernetes:v1.34.6-rke2r3-build20260407
