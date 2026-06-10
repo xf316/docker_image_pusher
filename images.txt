@@ -1,1 +1,2 @@
-grafana/promtail:2.9.0
+semaphoreui/semaphore:latest
+postgres:16
