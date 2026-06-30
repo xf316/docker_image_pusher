@@ -1,3 +1,1 @@
-redis:7-alpine
- mysql:8.0
-ghcr.io/gitee/lijiahangmax/orion-ops:latest
+orion-ops:latest
