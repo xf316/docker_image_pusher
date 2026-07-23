@@ -1,1 +1,1 @@
-orion-ops:latest
+portainer/portainer-ce:lts
