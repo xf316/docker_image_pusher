@@ -1,1 +1,1 @@
-portainer/portainer-ce:lts
+patroni:3.4.0-pg13
