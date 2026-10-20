@@ -1,1 +1,1 @@
-patroni:3.4.0-pg13
+jenkins/jenkins:2.580.1-lts
